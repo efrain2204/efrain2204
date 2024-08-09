@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-I am a Unity XR developer. Currently developing XR experiences on iOS, Android, and Quest 2. However, I am in the learning process of powerful tools as Unreal Engine. I have also developed some mobile applications using Flutter for Android, and iOS devices.
+Soy un desarrollador frontend con amplia experiencia en la creación de interfaces web modernas y funcionales.Además, tengo un gran interés en la realidad virtual y me dedico a explorar tecnologías emergentes, buscando formas de integrar experiencias inmersivas en el entorno web. Esta combinación de habilidades me permite trabajar en proyectos innovadores, desde aplicaciones web tradicionales hasta entornos 3D interactivos.
 
 ## Redes
 Puedes encontrarme en:
